@@ -1,2 +1,2 @@
 # cinekoala
-Demo project using Vue.js // Data powered by The Movie DB
+Demo project using React Native + Expo // Data powered by The Movie DB
